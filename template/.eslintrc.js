@@ -3,7 +3,6 @@ module.exports = {
   root: true,
   extends: [
     'react-app',
-    'shared-config',
     'prettier', // eslint-plugin-prettier
     'prettier/react', // support eslint-plugin-react
   ],
